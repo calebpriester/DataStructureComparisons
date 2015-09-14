@@ -1,0 +1,3 @@
+CPSC2120 Project 1:  cpriest, Caleb Priester
+
+Contained in this folder are the contents that make up Project 1.  There are 5 dictionary types, each with a header and c++ file.  There is also a driver that allows the user to pick one of the data bases and insert, delete, and search through them using data from specified files.  The Makefile contained will compile all necessary code for that driver to be able to run.  Also contained are the files that I used to test the speeds of the three functions for each data base, so these must be manually compiled if they are to be used.  Enjoy.
